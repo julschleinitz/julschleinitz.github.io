@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://julschleinitz.github.io/sitemap.xml
+Sitemap: https://julschleinitz.github.io/ai4chemistry-bootcamp/sitemap.xml
